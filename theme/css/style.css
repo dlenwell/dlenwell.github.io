@@ -61,7 +61,7 @@ body {margin: 0}
 body > article, footer {
   line-height: 1.6em;
   display: block;
-  max-width: 800px;
+  max-width: 1000px;
   margin: 20px auto auto 260px;
   padding: 10px 80px 10px;
 }
@@ -243,4 +243,12 @@ aside > h2 {
 
 img {
   max-width: 100%;
+}
+
+.gallery_container{
+
+}
+
+.gallery_container a{
+  display: inline-block;
 }
